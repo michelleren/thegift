@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "thegift.data.unityweb",
+"asmCodeUrl": "thegift.asm.code.unityweb",
+"asmMemoryUrl": "thegift.asm.memory.unityweb",
+"asmFrameworkUrl": "thegift.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
